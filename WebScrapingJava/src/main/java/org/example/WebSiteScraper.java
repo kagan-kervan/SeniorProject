@@ -1,5 +1,7 @@
 package org.example;
 
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -17,6 +19,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 public class WebSiteScraper {
+    private static final Log log = LogFactory.getLog(WebSiteScraper.class);
     public static HashMap<String, String > latestNews;
     private WebDriver webDriver;
 
@@ -26,29 +29,40 @@ public class WebSiteScraper {
     }
 
     public StockNewsInformation checkNewsForStock(String stockSymbol){
+        log.info("Getting stock"+stockSymbol+" site.");
         navigateToSite(stockSymbol);
+        log.info("Finished getting "+stockSymbol+" site.");
+        log.info("Parsing the site.");
         Document doc = Jsoup.parse(webDriver.getPageSource());
+        log.info("Check for latest news for stock "+stockSymbol);
         Element latestNewForStock = findLatestNewsForStock(doc);
-        if(latestNewForStock == null)
+        if(latestNewForStock == null){
+            log.info("No news found for stock "+stockSymbol);
             return null;
+        }
         String latestTitle = latestNewForStock.getElementsByTag("h3").get(0).text();
         if(latestTitle == null)
             return null;
         if(!(isNewSite(stockSymbol,latestTitle))){
-            System.out.println("Yeni haber yok");
+            log.info("No new news found for stock "+stockSymbol);
             return null;
         }
+        log.info("Getting latest news link..");
         Element newsLinkElement = getLatestNewsLink(latestNewForStock);
         String newsLinkURL = buildFullLink(newsLinkElement.attr("href"));
         if(newsLinkURL.isEmpty()){
-            System.out.println("Haber bağlantısı bulunamadı.");
+            log.info("Cannot find the url for the news link.");
             return null;
         }
+        log.info("Getting the"+stockSymbol+" news site with driver.");
         webDriver.get(newsLinkURL);
+        log.info("Finished getting "+stockSymbol+" news site.");
         Document newsDoc = Jsoup.parse(webDriver.getPageSource());
+        log.info("Extract details from the news..");
         StockNewsInformation stockNewsInformation = extractNewsDetails(newsDoc);
         stockNewsInformation.setStockSymbol(stockSymbol);
         latestNews.put(stockSymbol,stockNewsInformation.getTitle());
+        log.info("Finished stock news checking");
         return stockNewsInformation;
     }
 

@@ -1,5 +1,6 @@
 package org.example;
 
+import lombok.extern.java.Log;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -15,13 +16,17 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+@Log
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader("sp500_symbols_yahoo.json"));
+        log.info("Started json parsing..");
         JsonParser parser = new JsonParser(br);
         InputRoot root = parser.getJsonElements();
         ArrayList<StockInput> inputs = root.getStockInputs();
         OutputRoot output = parser.readLatestNews(new BufferedReader(new FileReader("latest_news.json")));
+        log.info("Finished json parsing..");
+        log.info("Started web driver initialization.");
         FirefoxOptions options = new FirefoxOptions();
         options.addArguments("--headless");
         // Disable sandboxing
@@ -29,6 +34,7 @@ public class Main {
         // Prevent shared memory issues
         options.addArguments("--disable-dev-shm-usage");
         WebDriver driver = new FirefoxDriver(options);
+        log.info("Finished web driver initialization.");
         WebSiteScraper siteScraper = new WebSiteScraper(driver, output);
         long startTime = System.currentTimeMillis();
         for (StockInput input : inputs) {
