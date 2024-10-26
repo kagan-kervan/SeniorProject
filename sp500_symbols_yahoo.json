@@ -1,0 +1,2016 @@
+{
+    "root": [
+        {
+            "symbol": "MMM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MMM/news/"
+        },
+        {
+            "symbol": "AOS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AOS/news/"
+        },
+        {
+            "symbol": "ABT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ABT/news/"
+        },
+        {
+            "symbol": "ABBV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ABBV/news/"
+        },
+        {
+            "symbol": "ACN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ACN/news/"
+        },
+        {
+            "symbol": "ADBE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ADBE/news/"
+        },
+        {
+            "symbol": "AMD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AMD/news/"
+        },
+        {
+            "symbol": "AES",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AES/news/"
+        },
+        {
+            "symbol": "AFL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AFL/news/"
+        },
+        {
+            "symbol": "A",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/A/news/"
+        },
+        {
+            "symbol": "APD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/APD/news/"
+        },
+        {
+            "symbol": "ABNB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ABNB/news/"
+        },
+        {
+            "symbol": "AKAM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AKAM/news/"
+        },
+        {
+            "symbol": "ALB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ALB/news/"
+        },
+        {
+            "symbol": "ARE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ARE/news/"
+        },
+        {
+            "symbol": "ALGN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ALGN/news/"
+        },
+        {
+            "symbol": "ALLE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ALLE/news/"
+        },
+        {
+            "symbol": "LNT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LNT/news/"
+        },
+        {
+            "symbol": "ALL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ALL/news/"
+        },
+        {
+            "symbol": "GOOGL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GOOGL/news/"
+        },
+        {
+            "symbol": "GOOG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GOOG/news/"
+        },
+        {
+            "symbol": "MO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MO/news/"
+        },
+        {
+            "symbol": "AMZN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AMZN/news/"
+        },
+        {
+            "symbol": "AMCR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AMCR/news/"
+        },
+        {
+            "symbol": "AMTM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AMTM/news/"
+        },
+        {
+            "symbol": "AEE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AEE/news/"
+        },
+        {
+            "symbol": "AEP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AEP/news/"
+        },
+        {
+            "symbol": "AXP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AXP/news/"
+        },
+        {
+            "symbol": "AIG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AIG/news/"
+        },
+        {
+            "symbol": "AMT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AMT/news/"
+        },
+        {
+            "symbol": "AWK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AWK/news/"
+        },
+        {
+            "symbol": "AMP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AMP/news/"
+        },
+        {
+            "symbol": "AME",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AME/news/"
+        },
+        {
+            "symbol": "AMGN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AMGN/news/"
+        },
+        {
+            "symbol": "APH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/APH/news/"
+        },
+        {
+            "symbol": "ADI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ADI/news/"
+        },
+        {
+            "symbol": "ANSS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ANSS/news/"
+        },
+        {
+            "symbol": "AON",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AON/news/"
+        },
+        {
+            "symbol": "APA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/APA/news/"
+        },
+        {
+            "symbol": "AAPL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AAPL/news/"
+        },
+        {
+            "symbol": "AMAT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AMAT/news/"
+        },
+        {
+            "symbol": "APTV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/APTV/news/"
+        },
+        {
+            "symbol": "ACGL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ACGL/news/"
+        },
+        {
+            "symbol": "ADM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ADM/news/"
+        },
+        {
+            "symbol": "ANET",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ANET/news/"
+        },
+        {
+            "symbol": "AJG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AJG/news/"
+        },
+        {
+            "symbol": "AIZ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AIZ/news/"
+        },
+        {
+            "symbol": "T",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/T/news/"
+        },
+        {
+            "symbol": "ATO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ATO/news/"
+        },
+        {
+            "symbol": "ADSK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ADSK/news/"
+        },
+        {
+            "symbol": "ADP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ADP/news/"
+        },
+        {
+            "symbol": "AZO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AZO/news/"
+        },
+        {
+            "symbol": "AVB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AVB/news/"
+        },
+        {
+            "symbol": "AVY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AVY/news/"
+        },
+        {
+            "symbol": "AXON",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AXON/news/"
+        },
+        {
+            "symbol": "BKR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BKR/news/"
+        },
+        {
+            "symbol": "BALL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BALL/news/"
+        },
+        {
+            "symbol": "BAC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BAC/news/"
+        },
+        {
+            "symbol": "BAX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BAX/news/"
+        },
+        {
+            "symbol": "BDX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BDX/news/"
+        },
+        {
+            "symbol": "BRK.B",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BRK.B/news/"
+        },
+        {
+            "symbol": "BBY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BBY/news/"
+        },
+        {
+            "symbol": "TECH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TECH/news/"
+        },
+        {
+            "symbol": "BIIB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BIIB/news/"
+        },
+        {
+            "symbol": "BLK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BLK/news/"
+        },
+        {
+            "symbol": "BX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BX/news/"
+        },
+        {
+            "symbol": "BK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BK/news/"
+        },
+        {
+            "symbol": "BA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BA/news/"
+        },
+        {
+            "symbol": "BKNG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BKNG/news/"
+        },
+        {
+            "symbol": "BWA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BWA/news/"
+        },
+        {
+            "symbol": "BSX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BSX/news/"
+        },
+        {
+            "symbol": "BMY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BMY/news/"
+        },
+        {
+            "symbol": "AVGO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/AVGO/news/"
+        },
+        {
+            "symbol": "BR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BR/news/"
+        },
+        {
+            "symbol": "BRO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BRO/news/"
+        },
+        {
+            "symbol": "BF.B",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BF.B/news/"
+        },
+        {
+            "symbol": "BLDR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BLDR/news/"
+        },
+        {
+            "symbol": "BG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BG/news/"
+        },
+        {
+            "symbol": "BXP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BXP/news/"
+        },
+        {
+            "symbol": "CHRW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CHRW/news/"
+        },
+        {
+            "symbol": "CDNS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CDNS/news/"
+        },
+        {
+            "symbol": "CZR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CZR/news/"
+        },
+        {
+            "symbol": "CPT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CPT/news/"
+        },
+        {
+            "symbol": "CPB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CPB/news/"
+        },
+        {
+            "symbol": "COF",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/COF/news/"
+        },
+        {
+            "symbol": "CAH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CAH/news/"
+        },
+        {
+            "symbol": "KMX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KMX/news/"
+        },
+        {
+            "symbol": "CCL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CCL/news/"
+        },
+        {
+            "symbol": "CARR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CARR/news/"
+        },
+        {
+            "symbol": "CTLT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CTLT/news/"
+        },
+        {
+            "symbol": "CAT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CAT/news/"
+        },
+        {
+            "symbol": "CBOE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CBOE/news/"
+        },
+        {
+            "symbol": "CBRE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CBRE/news/"
+        },
+        {
+            "symbol": "CDW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CDW/news/"
+        },
+        {
+            "symbol": "CE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CE/news/"
+        },
+        {
+            "symbol": "COR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/COR/news/"
+        },
+        {
+            "symbol": "CNC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CNC/news/"
+        },
+        {
+            "symbol": "CNP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CNP/news/"
+        },
+        {
+            "symbol": "CF",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CF/news/"
+        },
+        {
+            "symbol": "CRL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CRL/news/"
+        },
+        {
+            "symbol": "SCHW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SCHW/news/"
+        },
+        {
+            "symbol": "CHTR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CHTR/news/"
+        },
+        {
+            "symbol": "CVX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CVX/news/"
+        },
+        {
+            "symbol": "CMG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CMG/news/"
+        },
+        {
+            "symbol": "CB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CB/news/"
+        },
+        {
+            "symbol": "CHD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CHD/news/"
+        },
+        {
+            "symbol": "CI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CI/news/"
+        },
+        {
+            "symbol": "CINF",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CINF/news/"
+        },
+        {
+            "symbol": "CTAS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CTAS/news/"
+        },
+        {
+            "symbol": "CSCO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CSCO/news/"
+        },
+        {
+            "symbol": "C",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/C/news/"
+        },
+        {
+            "symbol": "CFG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CFG/news/"
+        },
+        {
+            "symbol": "CLX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CLX/news/"
+        },
+        {
+            "symbol": "CME",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CME/news/"
+        },
+        {
+            "symbol": "CMS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CMS/news/"
+        },
+        {
+            "symbol": "KO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KO/news/"
+        },
+        {
+            "symbol": "CTSH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CTSH/news/"
+        },
+        {
+            "symbol": "CL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CL/news/"
+        },
+        {
+            "symbol": "CMCSA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CMCSA/news/"
+        },
+        {
+            "symbol": "CAG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CAG/news/"
+        },
+        {
+            "symbol": "COP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/COP/news/"
+        },
+        {
+            "symbol": "ED",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ED/news/"
+        },
+        {
+            "symbol": "STZ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/STZ/news/"
+        },
+        {
+            "symbol": "CEG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CEG/news/"
+        },
+        {
+            "symbol": "COO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/COO/news/"
+        },
+        {
+            "symbol": "CPRT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CPRT/news/"
+        },
+        {
+            "symbol": "GLW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GLW/news/"
+        },
+        {
+            "symbol": "CPAY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CPAY/news/"
+        },
+        {
+            "symbol": "CTVA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CTVA/news/"
+        },
+        {
+            "symbol": "CSGP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CSGP/news/"
+        },
+        {
+            "symbol": "COST",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/COST/news/"
+        },
+        {
+            "symbol": "CTRA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CTRA/news/"
+        },
+        {
+            "symbol": "CRWD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CRWD/news/"
+        },
+        {
+            "symbol": "CCI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CCI/news/"
+        },
+        {
+            "symbol": "CSX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CSX/news/"
+        },
+        {
+            "symbol": "CMI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CMI/news/"
+        },
+        {
+            "symbol": "CVS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CVS/news/"
+        },
+        {
+            "symbol": "DHR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DHR/news/"
+        },
+        {
+            "symbol": "DRI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DRI/news/"
+        },
+        {
+            "symbol": "DVA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DVA/news/"
+        },
+        {
+            "symbol": "DAY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DAY/news/"
+        },
+        {
+            "symbol": "DECK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DECK/news/"
+        },
+        {
+            "symbol": "DE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DE/news/"
+        },
+        {
+            "symbol": "DELL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DELL/news/"
+        },
+        {
+            "symbol": "DAL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DAL/news/"
+        },
+        {
+            "symbol": "DVN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DVN/news/"
+        },
+        {
+            "symbol": "DXCM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DXCM/news/"
+        },
+        {
+            "symbol": "FANG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FANG/news/"
+        },
+        {
+            "symbol": "DLR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DLR/news/"
+        },
+        {
+            "symbol": "DFS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DFS/news/"
+        },
+        {
+            "symbol": "DG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DG/news/"
+        },
+        {
+            "symbol": "DLTR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DLTR/news/"
+        },
+        {
+            "symbol": "D",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/D/news/"
+        },
+        {
+            "symbol": "DPZ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DPZ/news/"
+        },
+        {
+            "symbol": "DOV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DOV/news/"
+        },
+        {
+            "symbol": "DOW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DOW/news/"
+        },
+        {
+            "symbol": "DHI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DHI/news/"
+        },
+        {
+            "symbol": "DTE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DTE/news/"
+        },
+        {
+            "symbol": "DUK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DUK/news/"
+        },
+        {
+            "symbol": "DD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DD/news/"
+        },
+        {
+            "symbol": "EMN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EMN/news/"
+        },
+        {
+            "symbol": "ETN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ETN/news/"
+        },
+        {
+            "symbol": "EBAY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EBAY/news/"
+        },
+        {
+            "symbol": "ECL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ECL/news/"
+        },
+        {
+            "symbol": "EIX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EIX/news/"
+        },
+        {
+            "symbol": "EW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EW/news/"
+        },
+        {
+            "symbol": "EA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EA/news/"
+        },
+        {
+            "symbol": "ELV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ELV/news/"
+        },
+        {
+            "symbol": "EMR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EMR/news/"
+        },
+        {
+            "symbol": "ENPH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ENPH/news/"
+        },
+        {
+            "symbol": "ETR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ETR/news/"
+        },
+        {
+            "symbol": "EOG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EOG/news/"
+        },
+        {
+            "symbol": "EPAM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EPAM/news/"
+        },
+        {
+            "symbol": "EQT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EQT/news/"
+        },
+        {
+            "symbol": "EFX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EFX/news/"
+        },
+        {
+            "symbol": "EQIX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EQIX/news/"
+        },
+        {
+            "symbol": "EQR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EQR/news/"
+        },
+        {
+            "symbol": "ERIE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ERIE/news/"
+        },
+        {
+            "symbol": "ESS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ESS/news/"
+        },
+        {
+            "symbol": "EL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EL/news/"
+        },
+        {
+            "symbol": "EG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EG/news/"
+        },
+        {
+            "symbol": "EVRG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EVRG/news/"
+        },
+        {
+            "symbol": "ES",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ES/news/"
+        },
+        {
+            "symbol": "EXC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EXC/news/"
+        },
+        {
+            "symbol": "EXPE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EXPE/news/"
+        },
+        {
+            "symbol": "EXPD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EXPD/news/"
+        },
+        {
+            "symbol": "EXR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/EXR/news/"
+        },
+        {
+            "symbol": "XOM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/XOM/news/"
+        },
+        {
+            "symbol": "FFIV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FFIV/news/"
+        },
+        {
+            "symbol": "FDS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FDS/news/"
+        },
+        {
+            "symbol": "FICO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FICO/news/"
+        },
+        {
+            "symbol": "FAST",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FAST/news/"
+        },
+        {
+            "symbol": "FRT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FRT/news/"
+        },
+        {
+            "symbol": "FDX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FDX/news/"
+        },
+        {
+            "symbol": "FIS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FIS/news/"
+        },
+        {
+            "symbol": "FITB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FITB/news/"
+        },
+        {
+            "symbol": "FSLR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FSLR/news/"
+        },
+        {
+            "symbol": "FE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FE/news/"
+        },
+        {
+            "symbol": "FI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FI/news/"
+        },
+        {
+            "symbol": "FMC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FMC/news/"
+        },
+        {
+            "symbol": "F",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/F/news/"
+        },
+        {
+            "symbol": "FTNT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FTNT/news/"
+        },
+        {
+            "symbol": "FTV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FTV/news/"
+        },
+        {
+            "symbol": "FOXA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FOXA/news/"
+        },
+        {
+            "symbol": "FOX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FOX/news/"
+        },
+        {
+            "symbol": "BEN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/BEN/news/"
+        },
+        {
+            "symbol": "FCX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/FCX/news/"
+        },
+        {
+            "symbol": "GRMN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GRMN/news/"
+        },
+        {
+            "symbol": "IT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IT/news/"
+        },
+        {
+            "symbol": "GE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GE/news/"
+        },
+        {
+            "symbol": "GEHC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GEHC/news/"
+        },
+        {
+            "symbol": "GEV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GEV/news/"
+        },
+        {
+            "symbol": "GEN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GEN/news/"
+        },
+        {
+            "symbol": "GNRC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GNRC/news/"
+        },
+        {
+            "symbol": "GD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GD/news/"
+        },
+        {
+            "symbol": "GIS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GIS/news/"
+        },
+        {
+            "symbol": "GM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GM/news/"
+        },
+        {
+            "symbol": "GPC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GPC/news/"
+        },
+        {
+            "symbol": "GILD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GILD/news/"
+        },
+        {
+            "symbol": "GPN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GPN/news/"
+        },
+        {
+            "symbol": "GL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GL/news/"
+        },
+        {
+            "symbol": "GDDY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GDDY/news/"
+        },
+        {
+            "symbol": "GS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GS/news/"
+        },
+        {
+            "symbol": "HAL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HAL/news/"
+        },
+        {
+            "symbol": "HIG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HIG/news/"
+        },
+        {
+            "symbol": "HAS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HAS/news/"
+        },
+        {
+            "symbol": "HCA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HCA/news/"
+        },
+        {
+            "symbol": "DOC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DOC/news/"
+        },
+        {
+            "symbol": "HSIC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HSIC/news/"
+        },
+        {
+            "symbol": "HSY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HSY/news/"
+        },
+        {
+            "symbol": "HES",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HES/news/"
+        },
+        {
+            "symbol": "HPE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HPE/news/"
+        },
+        {
+            "symbol": "HLT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HLT/news/"
+        },
+        {
+            "symbol": "HOLX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HOLX/news/"
+        },
+        {
+            "symbol": "HD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HD/news/"
+        },
+        {
+            "symbol": "HON",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HON/news/"
+        },
+        {
+            "symbol": "HRL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HRL/news/"
+        },
+        {
+            "symbol": "HST",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HST/news/"
+        },
+        {
+            "symbol": "HWM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HWM/news/"
+        },
+        {
+            "symbol": "HPQ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HPQ/news/"
+        },
+        {
+            "symbol": "HUBB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HUBB/news/"
+        },
+        {
+            "symbol": "HUM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HUM/news/"
+        },
+        {
+            "symbol": "HBAN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HBAN/news/"
+        },
+        {
+            "symbol": "HII",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/HII/news/"
+        },
+        {
+            "symbol": "IBM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IBM/news/"
+        },
+        {
+            "symbol": "IEX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IEX/news/"
+        },
+        {
+            "symbol": "IDXX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IDXX/news/"
+        },
+        {
+            "symbol": "ITW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ITW/news/"
+        },
+        {
+            "symbol": "INCY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/INCY/news/"
+        },
+        {
+            "symbol": "IR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IR/news/"
+        },
+        {
+            "symbol": "PODD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PODD/news/"
+        },
+        {
+            "symbol": "INTC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/INTC/news/"
+        },
+        {
+            "symbol": "ICE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ICE/news/"
+        },
+        {
+            "symbol": "IFF",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IFF/news/"
+        },
+        {
+            "symbol": "IP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IP/news/"
+        },
+        {
+            "symbol": "IPG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IPG/news/"
+        },
+        {
+            "symbol": "INTU",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/INTU/news/"
+        },
+        {
+            "symbol": "ISRG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ISRG/news/"
+        },
+        {
+            "symbol": "IVZ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IVZ/news/"
+        },
+        {
+            "symbol": "INVH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/INVH/news/"
+        },
+        {
+            "symbol": "IQV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IQV/news/"
+        },
+        {
+            "symbol": "IRM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/IRM/news/"
+        },
+        {
+            "symbol": "JBHT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/JBHT/news/"
+        },
+        {
+            "symbol": "JBL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/JBL/news/"
+        },
+        {
+            "symbol": "JKHY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/JKHY/news/"
+        },
+        {
+            "symbol": "J",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/J/news/"
+        },
+        {
+            "symbol": "JNJ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/JNJ/news/"
+        },
+        {
+            "symbol": "JCI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/JCI/news/"
+        },
+        {
+            "symbol": "JPM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/JPM/news/"
+        },
+        {
+            "symbol": "JNPR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/JNPR/news/"
+        },
+        {
+            "symbol": "K",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/K/news/"
+        },
+        {
+            "symbol": "KVUE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KVUE/news/"
+        },
+        {
+            "symbol": "KDP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KDP/news/"
+        },
+        {
+            "symbol": "KEY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KEY/news/"
+        },
+        {
+            "symbol": "KEYS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KEYS/news/"
+        },
+        {
+            "symbol": "KMB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KMB/news/"
+        },
+        {
+            "symbol": "KIM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KIM/news/"
+        },
+        {
+            "symbol": "KMI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KMI/news/"
+        },
+        {
+            "symbol": "KKR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KKR/news/"
+        },
+        {
+            "symbol": "KLAC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KLAC/news/"
+        },
+        {
+            "symbol": "KHC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KHC/news/"
+        },
+        {
+            "symbol": "KR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/KR/news/"
+        },
+        {
+            "symbol": "LHX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LHX/news/"
+        },
+        {
+            "symbol": "LH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LH/news/"
+        },
+        {
+            "symbol": "LRCX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LRCX/news/"
+        },
+        {
+            "symbol": "LW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LW/news/"
+        },
+        {
+            "symbol": "LVS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LVS/news/"
+        },
+        {
+            "symbol": "LDOS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LDOS/news/"
+        },
+        {
+            "symbol": "LEN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LEN/news/"
+        },
+        {
+            "symbol": "LLY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LLY/news/"
+        },
+        {
+            "symbol": "LIN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LIN/news/"
+        },
+        {
+            "symbol": "LYV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LYV/news/"
+        },
+        {
+            "symbol": "LKQ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LKQ/news/"
+        },
+        {
+            "symbol": "LMT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LMT/news/"
+        },
+        {
+            "symbol": "L",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/L/news/"
+        },
+        {
+            "symbol": "LOW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LOW/news/"
+        },
+        {
+            "symbol": "LULU",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LULU/news/"
+        },
+        {
+            "symbol": "LYB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LYB/news/"
+        },
+        {
+            "symbol": "MTB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MTB/news/"
+        },
+        {
+            "symbol": "MRO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MRO/news/"
+        },
+        {
+            "symbol": "MPC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MPC/news/"
+        },
+        {
+            "symbol": "MKTX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MKTX/news/"
+        },
+        {
+            "symbol": "MAR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MAR/news/"
+        },
+        {
+            "symbol": "MMC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MMC/news/"
+        },
+        {
+            "symbol": "MLM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MLM/news/"
+        },
+        {
+            "symbol": "MAS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MAS/news/"
+        },
+        {
+            "symbol": "MA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MA/news/"
+        },
+        {
+            "symbol": "MTCH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MTCH/news/"
+        },
+        {
+            "symbol": "MKC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MKC/news/"
+        },
+        {
+            "symbol": "MCD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MCD/news/"
+        },
+        {
+            "symbol": "MCK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MCK/news/"
+        },
+        {
+            "symbol": "MDT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MDT/news/"
+        },
+        {
+            "symbol": "MRK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MRK/news/"
+        },
+        {
+            "symbol": "META",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/META/news/"
+        },
+        {
+            "symbol": "MET",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MET/news/"
+        },
+        {
+            "symbol": "MTD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MTD/news/"
+        },
+        {
+            "symbol": "MGM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MGM/news/"
+        },
+        {
+            "symbol": "MCHP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MCHP/news/"
+        },
+        {
+            "symbol": "MU",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MU/news/"
+        },
+        {
+            "symbol": "MSFT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MSFT/news/"
+        },
+        {
+            "symbol": "MAA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MAA/news/"
+        },
+        {
+            "symbol": "MRNA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MRNA/news/"
+        },
+        {
+            "symbol": "MHK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MHK/news/"
+        },
+        {
+            "symbol": "MOH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MOH/news/"
+        },
+        {
+            "symbol": "TAP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TAP/news/"
+        },
+        {
+            "symbol": "MDLZ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MDLZ/news/"
+        },
+        {
+            "symbol": "MPWR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MPWR/news/"
+        },
+        {
+            "symbol": "MNST",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MNST/news/"
+        },
+        {
+            "symbol": "MCO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MCO/news/"
+        },
+        {
+            "symbol": "MS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MS/news/"
+        },
+        {
+            "symbol": "MOS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MOS/news/"
+        },
+        {
+            "symbol": "MSI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MSI/news/"
+        },
+        {
+            "symbol": "MSCI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/MSCI/news/"
+        },
+        {
+            "symbol": "NDAQ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NDAQ/news/"
+        },
+        {
+            "symbol": "NTAP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NTAP/news/"
+        },
+        {
+            "symbol": "NFLX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NFLX/news/"
+        },
+        {
+            "symbol": "NEM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NEM/news/"
+        },
+        {
+            "symbol": "NWSA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NWSA/news/"
+        },
+        {
+            "symbol": "NWS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NWS/news/"
+        },
+        {
+            "symbol": "NEE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NEE/news/"
+        },
+        {
+            "symbol": "NKE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NKE/news/"
+        },
+        {
+            "symbol": "NI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NI/news/"
+        },
+        {
+            "symbol": "NDSN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NDSN/news/"
+        },
+        {
+            "symbol": "NSC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NSC/news/"
+        },
+        {
+            "symbol": "NTRS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NTRS/news/"
+        },
+        {
+            "symbol": "NOC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NOC/news/"
+        },
+        {
+            "symbol": "NCLH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NCLH/news/"
+        },
+        {
+            "symbol": "NRG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NRG/news/"
+        },
+        {
+            "symbol": "NUE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NUE/news/"
+        },
+        {
+            "symbol": "NVDA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NVDA/news/"
+        },
+        {
+            "symbol": "NVR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NVR/news/"
+        },
+        {
+            "symbol": "NXPI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NXPI/news/"
+        },
+        {
+            "symbol": "ORLY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ORLY/news/"
+        },
+        {
+            "symbol": "OXY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/OXY/news/"
+        },
+        {
+            "symbol": "ODFL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ODFL/news/"
+        },
+        {
+            "symbol": "OMC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/OMC/news/"
+        },
+        {
+            "symbol": "ON",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ON/news/"
+        },
+        {
+            "symbol": "OKE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/OKE/news/"
+        },
+        {
+            "symbol": "ORCL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ORCL/news/"
+        },
+        {
+            "symbol": "OTIS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/OTIS/news/"
+        },
+        {
+            "symbol": "PCAR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PCAR/news/"
+        },
+        {
+            "symbol": "PKG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PKG/news/"
+        },
+        {
+            "symbol": "PLTR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PLTR/news/"
+        },
+        {
+            "symbol": "PANW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PANW/news/"
+        },
+        {
+            "symbol": "PARA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PARA/news/"
+        },
+        {
+            "symbol": "PH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PH/news/"
+        },
+        {
+            "symbol": "PAYX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PAYX/news/"
+        },
+        {
+            "symbol": "PAYC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PAYC/news/"
+        },
+        {
+            "symbol": "PYPL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PYPL/news/"
+        },
+        {
+            "symbol": "PNR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PNR/news/"
+        },
+        {
+            "symbol": "PEP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PEP/news/"
+        },
+        {
+            "symbol": "PFE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PFE/news/"
+        },
+        {
+            "symbol": "PCG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PCG/news/"
+        },
+        {
+            "symbol": "PM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PM/news/"
+        },
+        {
+            "symbol": "PSX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PSX/news/"
+        },
+        {
+            "symbol": "PNW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PNW/news/"
+        },
+        {
+            "symbol": "PNC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PNC/news/"
+        },
+        {
+            "symbol": "POOL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/POOL/news/"
+        },
+        {
+            "symbol": "PPG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PPG/news/"
+        },
+        {
+            "symbol": "PPL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PPL/news/"
+        },
+        {
+            "symbol": "PFG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PFG/news/"
+        },
+        {
+            "symbol": "PG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PG/news/"
+        },
+        {
+            "symbol": "PGR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PGR/news/"
+        },
+        {
+            "symbol": "PLD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PLD/news/"
+        },
+        {
+            "symbol": "PRU",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PRU/news/"
+        },
+        {
+            "symbol": "PEG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PEG/news/"
+        },
+        {
+            "symbol": "PTC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PTC/news/"
+        },
+        {
+            "symbol": "PSA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PSA/news/"
+        },
+        {
+            "symbol": "PHM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PHM/news/"
+        },
+        {
+            "symbol": "QRVO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/QRVO/news/"
+        },
+        {
+            "symbol": "PWR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/PWR/news/"
+        },
+        {
+            "symbol": "QCOM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/QCOM/news/"
+        },
+        {
+            "symbol": "DGX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DGX/news/"
+        },
+        {
+            "symbol": "RL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/RL/news/"
+        },
+        {
+            "symbol": "RJF",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/RJF/news/"
+        },
+        {
+            "symbol": "RTX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/RTX/news/"
+        },
+        {
+            "symbol": "O",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/O/news/"
+        },
+        {
+            "symbol": "REG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/REG/news/"
+        },
+        {
+            "symbol": "REGN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/REGN/news/"
+        },
+        {
+            "symbol": "RF",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/RF/news/"
+        },
+        {
+            "symbol": "RSG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/RSG/news/"
+        },
+        {
+            "symbol": "RMD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/RMD/news/"
+        },
+        {
+            "symbol": "RVTY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/RVTY/news/"
+        },
+        {
+            "symbol": "ROK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ROK/news/"
+        },
+        {
+            "symbol": "ROL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ROL/news/"
+        },
+        {
+            "symbol": "ROP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ROP/news/"
+        },
+        {
+            "symbol": "ROST",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ROST/news/"
+        },
+        {
+            "symbol": "RCL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/RCL/news/"
+        },
+        {
+            "symbol": "SPGI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SPGI/news/"
+        },
+        {
+            "symbol": "CRM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/CRM/news/"
+        },
+        {
+            "symbol": "SBAC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SBAC/news/"
+        },
+        {
+            "symbol": "SLB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SLB/news/"
+        },
+        {
+            "symbol": "STX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/STX/news/"
+        },
+        {
+            "symbol": "SRE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SRE/news/"
+        },
+        {
+            "symbol": "NOW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/NOW/news/"
+        },
+        {
+            "symbol": "SHW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SHW/news/"
+        },
+        {
+            "symbol": "SPG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SPG/news/"
+        },
+        {
+            "symbol": "SWKS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SWKS/news/"
+        },
+        {
+            "symbol": "SJM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SJM/news/"
+        },
+        {
+            "symbol": "SW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SW/news/"
+        },
+        {
+            "symbol": "SNA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SNA/news/"
+        },
+        {
+            "symbol": "SOLV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SOLV/news/"
+        },
+        {
+            "symbol": "SO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SO/news/"
+        },
+        {
+            "symbol": "LUV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/LUV/news/"
+        },
+        {
+            "symbol": "SWK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SWK/news/"
+        },
+        {
+            "symbol": "SBUX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SBUX/news/"
+        },
+        {
+            "symbol": "STT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/STT/news/"
+        },
+        {
+            "symbol": "STLD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/STLD/news/"
+        },
+        {
+            "symbol": "STE",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/STE/news/"
+        },
+        {
+            "symbol": "SYK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SYK/news/"
+        },
+        {
+            "symbol": "SMCI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SMCI/news/"
+        },
+        {
+            "symbol": "SYF",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SYF/news/"
+        },
+        {
+            "symbol": "SNPS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SNPS/news/"
+        },
+        {
+            "symbol": "SYY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/SYY/news/"
+        },
+        {
+            "symbol": "TMUS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TMUS/news/"
+        },
+        {
+            "symbol": "TROW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TROW/news/"
+        },
+        {
+            "symbol": "TTWO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TTWO/news/"
+        },
+        {
+            "symbol": "TPR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TPR/news/"
+        },
+        {
+            "symbol": "TRGP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TRGP/news/"
+        },
+        {
+            "symbol": "TGT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TGT/news/"
+        },
+        {
+            "symbol": "TEL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TEL/news/"
+        },
+        {
+            "symbol": "TDY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TDY/news/"
+        },
+        {
+            "symbol": "TFX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TFX/news/"
+        },
+        {
+            "symbol": "TER",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TER/news/"
+        },
+        {
+            "symbol": "TSLA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TSLA/news/"
+        },
+        {
+            "symbol": "TXN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TXN/news/"
+        },
+        {
+            "symbol": "TXT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TXT/news/"
+        },
+        {
+            "symbol": "TMO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TMO/news/"
+        },
+        {
+            "symbol": "TJX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TJX/news/"
+        },
+        {
+            "symbol": "TSCO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TSCO/news/"
+        },
+        {
+            "symbol": "TT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TT/news/"
+        },
+        {
+            "symbol": "TDG",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TDG/news/"
+        },
+        {
+            "symbol": "TRV",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TRV/news/"
+        },
+        {
+            "symbol": "TRMB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TRMB/news/"
+        },
+        {
+            "symbol": "TFC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TFC/news/"
+        },
+        {
+            "symbol": "TYL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TYL/news/"
+        },
+        {
+            "symbol": "TSN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/TSN/news/"
+        },
+        {
+            "symbol": "USB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/USB/news/"
+        },
+        {
+            "symbol": "UBER",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/UBER/news/"
+        },
+        {
+            "symbol": "UDR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/UDR/news/"
+        },
+        {
+            "symbol": "ULTA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ULTA/news/"
+        },
+        {
+            "symbol": "UNP",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/UNP/news/"
+        },
+        {
+            "symbol": "UAL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/UAL/news/"
+        },
+        {
+            "symbol": "UPS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/UPS/news/"
+        },
+        {
+            "symbol": "URI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/URI/news/"
+        },
+        {
+            "symbol": "UNH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/UNH/news/"
+        },
+        {
+            "symbol": "UHS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/UHS/news/"
+        },
+        {
+            "symbol": "VLO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VLO/news/"
+        },
+        {
+            "symbol": "VTR",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VTR/news/"
+        },
+        {
+            "symbol": "VLTO",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VLTO/news/"
+        },
+        {
+            "symbol": "VRSN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VRSN/news/"
+        },
+        {
+            "symbol": "VRSK",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VRSK/news/"
+        },
+        {
+            "symbol": "VZ",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VZ/news/"
+        },
+        {
+            "symbol": "VRTX",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VRTX/news/"
+        },
+        {
+            "symbol": "VTRS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VTRS/news/"
+        },
+        {
+            "symbol": "VICI",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VICI/news/"
+        },
+        {
+            "symbol": "V",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/V/news/"
+        },
+        {
+            "symbol": "VST",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VST/news/"
+        },
+        {
+            "symbol": "VMC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/VMC/news/"
+        },
+        {
+            "symbol": "WRB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WRB/news/"
+        },
+        {
+            "symbol": "GWW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/GWW/news/"
+        },
+        {
+            "symbol": "WAB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WAB/news/"
+        },
+        {
+            "symbol": "WBA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WBA/news/"
+        },
+        {
+            "symbol": "WMT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WMT/news/"
+        },
+        {
+            "symbol": "DIS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/DIS/news/"
+        },
+        {
+            "symbol": "WBD",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WBD/news/"
+        },
+        {
+            "symbol": "WM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WM/news/"
+        },
+        {
+            "symbol": "WAT",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WAT/news/"
+        },
+        {
+            "symbol": "WEC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WEC/news/"
+        },
+        {
+            "symbol": "WFC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WFC/news/"
+        },
+        {
+            "symbol": "WELL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WELL/news/"
+        },
+        {
+            "symbol": "WST",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WST/news/"
+        },
+        {
+            "symbol": "WDC",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WDC/news/"
+        },
+        {
+            "symbol": "WY",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WY/news/"
+        },
+        {
+            "symbol": "WMB",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WMB/news/"
+        },
+        {
+            "symbol": "WTW",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WTW/news/"
+        },
+        {
+            "symbol": "WYNN",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/WYNN/news/"
+        },
+        {
+            "symbol": "XEL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/XEL/news/"
+        },
+        {
+            "symbol": "XYL",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/XYL/news/"
+        },
+        {
+            "symbol": "YUM",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/YUM/news/"
+        },
+        {
+            "symbol": "ZBRA",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ZBRA/news/"
+        },
+        {
+            "symbol": "ZBH",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ZBH/news/"
+        },
+        {
+            "symbol": "ZTS",
+            "yahoo_finance_url": "https://finance.yahoo.com/quote/ZTS/news/"
+        }
+    ]
+}
